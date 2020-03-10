@@ -37,13 +37,13 @@ body {
 }
 
 .header-email {
-  padding-left: 30px;
+  padding-left: 26px;
   background-image: url("img/icon-email-header.svg");
 }
 
-.header-phone {
-  padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
+.telegram {
+  padding-left: 26px;
+  background-image: url("img/icon-telegram.svg");
 }
 
 .hero-image {
@@ -159,6 +159,7 @@ body {
 }
 
 .button {
+  margin: 0 0 56px;
   padding: 6px 20px;
   display: inline-block;
   vertical-align: baseline;
@@ -186,9 +187,4 @@ body {
 .footer-email {
   padding-left: 30px;
   background-image: url("img/icon-email-footer.svg");
-}
-
-.footer-phone {
-  padding-left: 25px;
-  background-image: url("img/icon-phone-footer.svg");
 }
