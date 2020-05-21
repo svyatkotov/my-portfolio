@@ -1,5 +1,5 @@
 ## Promo site
 
-https://svyatkotov.github.io/my-portfolio/
+https://svyatkotov.github.io
 
 Страница с информацией обо мне, моих навыках и проектах.
