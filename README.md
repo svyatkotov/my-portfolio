@@ -2,4 +2,4 @@
 
 https://svyatkotov.github.io
 
-Страница с информацией обо мне, моих навыках и проектах.
+A page with information about me, my skills and projects.
