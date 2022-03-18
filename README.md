@@ -1,4 +1,4 @@
-## Promo site
+# svyatkotov.github.io
 
 https://svyatkotov.github.io
 
